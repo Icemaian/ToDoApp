@@ -1,9 +1,9 @@
 <template>
   <main data-bs-theme="dark">
-    <BaseComponent />
+    <Header />
   </main>
 </template>
 
 <script setup>
-	import BaseComponent from './components/BaseComponent.vue'
+	import Header from './components/Header.vue'
 </script>
